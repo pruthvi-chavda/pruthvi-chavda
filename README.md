@@ -29,14 +29,6 @@ I bridge the gap between heavy predictive mathematics and full-stack engineering
 
 ---
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvi-chavda&theme=neon&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi-chavda&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
----
-</div>
-
 ### 📬 Connect With Me
 * **LinkedIn:** [linkedin.com/in/pruthvi-chavda](https://in.linkedin.com/in/pruthvi-chavda-74693828b)
 * **Email:** pruthvich30@gmail.com
