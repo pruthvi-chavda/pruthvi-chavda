@@ -30,11 +30,11 @@ I bridge the gap between heavy predictive mathematics and full-stack engineering
 ---
 
 
-### 📈 Execution Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pruthvi-chavda&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi-chavda&layout=compact&theme=radical&hide_border=true)
-
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashDhirajOza&theme=neon&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashDhirajOza&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 ---
 
 ### 📬 Connect With Me
